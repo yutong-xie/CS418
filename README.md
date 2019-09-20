@@ -1,2 +1,2 @@
 # CS418
-UIUC-19FA-CS418-Introduction to graphics
+UIUC-19FA-CS418 Introduction to graphics
